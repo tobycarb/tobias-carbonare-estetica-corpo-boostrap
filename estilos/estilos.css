@@ -1,0 +1,73 @@
+body{background-image:linear-gradient(to left,white,#dc1449);
+}
+/* titulo */
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    text-transform: capitalize;
+    text-shadow: 1px 4px;
+    background-image: linear-gradient(to left,white,#dc1449);
+    margin: auto;
+    padding: 5px;
+}
+/* barra de navegaciones */
+.nav {display: flex;
+justify-content: space-around;
+background-color: #dc1449;
+width: 100%;
+padding: 0;
+margin: 0
+;
+
+}
+.nav a{color: antiquewhite;
+font-size: 30px;
+}
+.nav a:hover {
+    background-color: black;
+    color: purple;
+    animation-name: barra;
+    animation-iteration-count: 1;
+    animation-duration: 2s
+    /* carousel */
+}
+.carousel-item img {height: 400px;
+width: 100%;
+height: 500px
+;}
+
+ h5 {color: black;
+font-size: 45px;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+/* horarios */
+.formulario {width: 80%;
+height: 300px;}
+
+.text-center {background-color: #dc1449;
+font-size: 50px;
+text-transform: capitalize;
+padding: 10px;
+}
+form {background-image:linear-gradient(to left,white,#dc1449) ;
+    padding: 15px;;}
+    form.row.g-3.needs-validation{
+        margin: 0;
+    }
+    .nav.nav-justified {padding: 50px;}
+
+
+
+
+/* nosotros.html *//* nosotros.html *//* nosotros.html *//* nosotros.html *//* nosotros.html *//* nosotros.html *//* nosotros.html *//* nosotros.html *//* nosotros.html *//* nosotros.html */
+.listasimg {background-color: #dc1449ad;
+text-transform: capitalize;
+}
+.h5n {background-color: #dc1449;
+margin: auto;}
+h2 {text-align: center;
+background-color: #dc1449;
+padding: 15px;}
+.ubi {text-align: center;
+text-shadow: 1px 1px;}
